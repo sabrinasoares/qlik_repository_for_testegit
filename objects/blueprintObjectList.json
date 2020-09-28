@@ -1,0 +1,44 @@
+{
+  "qInfos": [
+    {
+      "qId": "89545592-e14a-4ff5-892a-50644c0b768a",
+      "qType": "appprops"
+    },
+    {
+      "qId": "LoadModel",
+      "qType": "LoadModel"
+    },
+    {
+      "qId": "SGvJAMr",
+      "qType": "barchart"
+    },
+    {
+      "qId": "TWTf",
+      "qType": "piechart"
+    },
+    {
+      "qId": "a8e407a0-1cca-48c4-bb52-c8feccc7da0f",
+      "qType": "sheet"
+    },
+    {
+      "qId": "aSNMHY",
+      "qType": "piechart"
+    },
+    {
+      "qId": "dTmZGt",
+      "qType": "scatterplot"
+    },
+    {
+      "qId": "e762d569-cdf2-41bf-aba3-8223c946f60c",
+      "qType": "sheet"
+    },
+    {
+      "qId": "f08ecae3-b77e-4188-a735-dff37f956f90",
+      "qType": "sheet"
+    },
+    {
+      "qId": "vrYpMf",
+      "qType": "barchart"
+    }
+  ]
+}
