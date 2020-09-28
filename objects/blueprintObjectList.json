@@ -24,6 +24,10 @@
       "qType": "barchart"
     },
     {
+      "qId": "SbBnLP",
+      "qType": "treemap"
+    },
+    {
       "qId": "TWTf",
       "qType": "piechart"
     },
