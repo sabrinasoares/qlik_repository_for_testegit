@@ -1,12 +1,23 @@
 {
   "qInfos": [
     {
+      "qId": "199a907e-8d84-4905-a75b-94bdf72ede29",
+      "qType": "sheet",
+      "modifiedDate": "2020-09-28T17:18:30.100Z"
+    },
+    {
       "qId": "89545592-e14a-4ff5-892a-50644c0b768a",
-      "qType": "appprops"
+      "qType": "appprops",
+      "modifiedDate": "2020-09-28T17:08:52.705Z"
     },
     {
       "qId": "LoadModel",
       "qType": "LoadModel"
+    },
+    {
+      "qId": "PDRQmN",
+      "qType": "measure",
+      "modifiedDate": "2020-09-28T17:18:30.100Z"
     },
     {
       "qId": "SGvJAMr",
@@ -18,7 +29,8 @@
     },
     {
       "qId": "a8e407a0-1cca-48c4-bb52-c8feccc7da0f",
-      "qType": "sheet"
+      "qType": "sheet",
+      "modifiedDate": "2020-09-28T17:09:58.003Z"
     },
     {
       "qId": "aSNMHY",
@@ -30,11 +42,22 @@
     },
     {
       "qId": "e762d569-cdf2-41bf-aba3-8223c946f60c",
-      "qType": "sheet"
+      "qType": "sheet",
+      "modifiedDate": "2020-09-28T17:11:29.400Z"
     },
     {
       "qId": "f08ecae3-b77e-4188-a735-dff37f956f90",
-      "qType": "sheet"
+      "qType": "sheet",
+      "modifiedDate": "2020-09-28T17:11:29.400Z"
+    },
+    {
+      "qId": "jBewA",
+      "qType": "barchart"
+    },
+    {
+      "qId": "qPnPkz",
+      "qType": "dimension",
+      "modifiedDate": "2020-09-28T17:18:00.052Z"
     },
     {
       "qId": "vrYpMf",

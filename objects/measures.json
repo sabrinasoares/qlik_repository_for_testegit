@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "qInfo": {
+      "qId": "PDRQmN",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Venda Líquida",
+      "qDef": "sum(VALORLIQUIDO)",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "coloring": {}
+    },
+    "qMetaDef": {
+      "title": "Venda Líquida",
+      "description": "",
+      "tags": []
+    }
+  }
+]

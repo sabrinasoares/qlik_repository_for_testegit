@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "qInfo": {
+      "qId": "qPnPkz",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "NOME_CATEGORIA"
+      ],
+      "qFieldLabels": [
+        "Categoria"
+      ],
+      "title": "Categoria",
+      "coloring": {
+        "changeHash": "0.523758681628129"
+      }
+    },
+    "qMetaDef": {
+      "title": "Categoria",
+      "description": "",
+      "tags": []
+    }
+  }
+]
